@@ -84,7 +84,7 @@ nav > a:hover{
 main{
     background-color: white;
     padding: 20px;
-    min-width: 300px;
+    min-width: 300pxpx;
     max-width: 1000px;
     margin: auto;
     margin-bottom: 30px;
@@ -93,7 +93,7 @@ main{
     border-bottom-right-radius: 10px;
 }
 main img{
-    width: 1000px;
+    width: 100%;
 }
 main img.pequina{
     max-width: 350px;
